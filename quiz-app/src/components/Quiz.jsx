@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import Question from "./question"
+import Question from "./Question.jsx"
 import Timer from "./Timer"
 import Result from "./Result"
 
