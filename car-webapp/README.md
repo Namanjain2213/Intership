@@ -1,12 +1,24 @@
-# React + Vite
+A responsive React application that allows users to search, filter, and save their favorite cars. This project demonstrates modern React practices, state management, and responsive UI design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Car Finder App
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+React - Frontend library
+Vite - Build tool and development server
+Tailwind CSS - Utility-first CSS framework
+Lucide React - Icon library
+LocalStorage API - For wishlist persistence
+✨ Features
+Search & Filter: Find cars by name, brand, price range, fuel type, and seating capacity
+Sorting: Sort cars by price (low to high or high to low)
+Pagination: View cars in manageable chunks (10 per page)
+Car Details: View comprehensive information about each car
+Wishlist: Save favorite cars to compare later (persisted in localStorage)
+Responsive Design: Optimized for all screen sizes from mobile to desktop
+Dark Mode: Toggle between light and dark themes
+Animations: Smooth transitions and loading states
+🚀 Getting Started
+Prerequisites
+Node.js (v14.0.0 or later)
+npm (v6.0.0 or later)
+Installation
