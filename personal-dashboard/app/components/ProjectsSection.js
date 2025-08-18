@@ -1,6 +1,20 @@
 export default function ProjectsSection() {
   const projects = [
     {
+      title: "Medicine Prediction System",
+      description:
+        "Developed a machine learning-based system to predict suitable medicines based on patient symptoms. The system integrates an SVM model with a Flask backend and React.js frontend to provide real-time predictions.",
+      technologies: ["Python", "Scikit-learn", "Flask", "React.js", "MySQL"],
+      features: [
+        "AI-powered medicine prediction",
+        "Support Vector Machine (SVM) model integration",
+        "Real-time predictions through REST API",
+        "Evaluation using accuracy, precision, recall, and F1-score",
+      ],
+      type: "Machine Learning Project",
+      status: "Completed",
+    },
+    {
       title: "Frosted Fantasy",
       description:
         "App Interface: Designed interactive screens for the cake ordering process, facilitating smoother transactions which contributed to a 15% increase in customer satisfaction.",

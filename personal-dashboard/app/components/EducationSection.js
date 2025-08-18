@@ -2,14 +2,14 @@ export default function EducationSection() {
   const education = [
     {
       institution: "University School of Information, Communication and Technology, GGSIPU",
-      degree: "Master of Computer Application (CGPA - 8.5)",
+      degree: "Master of Computer Application (CGPA - 8.6)",
       duration: "2023 - 2025",
       location: "Delhi, India",
-      type: "current",
+      type: "Completed",
     },
     {
       institution: "ISBA Institute Of Professional Studies",
-      degree: "Bachelor of Computer Application (Percentage - 74)",
+      degree: "Bachelor of Computer Application (Percentage - 73)",
       duration: "2020 - 2023",
       location: "Indore, India",
       type: "completed",

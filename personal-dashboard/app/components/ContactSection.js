@@ -31,7 +31,7 @@ export default function ContactSection() {
   ]
 
   const quickFacts = [
-    { label: "Location", value: "Delhi, India", icon: "📍" },
+    { label: "Location", value: "Jaipur, India", icon: "📍" },
     { label: "Availability", value: "Open to Opportunities", icon: "✅" },
     { label: "Preferred Role", value: "Full Stack Developer", icon: "👨‍💻" },
     { label: "Experience Level", value: "Entry to Mid Level", icon: "📈" },
